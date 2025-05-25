@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "716985676210",
+    "project_id": "farzan2030-8fa9d",
+    "storage_bucket": "farzan2030-8fa9d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:716985676210:android:2dea3e02bc0cf781cab4ab",
+        "android_client_info": {
+          "package_name": "com.example.farzan_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCcK8XltznSDrqLLu_-7cHI2UvCjoh7a1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
